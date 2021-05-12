@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1620764216,
+	"version": 1620833994,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -93,6 +93,7 @@
 		"media/5 - depois_clique_no_botao.ogg",
 		"media/depois_clique_no_botao.ogg",
 		"media/muito_bem.ogg",
+		"media/clique_no_botao_acima.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
